@@ -1,0 +1,1 @@
+numero_adivinar = int(input("Numero a adivinar"))
